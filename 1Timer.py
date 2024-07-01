@@ -1,3 +1,4 @@
+# Hello There
 import customtkinter
 import keyboard
 import time
@@ -38,7 +39,7 @@ class AutoTimeApp:
         self.status_label = customtkinter.CTkLabel(master=self.main_frame, text="", font=("Roboto", 12))
         self.status_label.pack(pady=10)
 
-        keyboard.on_press_key('q', self.on_q_pressed)
+        keyboard.on_press_key('q', self.on_q_pressed) 
 
     def set_q_delay(self):
         try:
