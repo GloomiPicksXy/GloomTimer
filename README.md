@@ -23,6 +23,6 @@ pip install keyboard
 I WILL NOT TAKE RESPONSIBILITY IF YOU EVER GET BANNED IN-GAME `well probably not cause this is undetected 💀`
 
 
-AND ALSO I DONNOT CARE IF YOU `**SKID**` THIS LMFAO
+AND ALSO I DONNOT CARE IF YOU `SKID` THIS LMFAO
 
 
