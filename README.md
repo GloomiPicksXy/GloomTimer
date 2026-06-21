@@ -22,7 +22,8 @@ pip install keyboard
 # Disclaimer
 I WILL NOT TAKE RESPONSIBILITY IF YOU EVER GET BANNED IN-GAME `well probably not cause this is undetected 💀`
 
+# June 26 - 2026
+I will be updating everything, including adding an controller support for both xbox and playstation. Many of y'all have been asking for it and no one ever made it so I'll be here for the community and I'll stick with the true promise of always making my projects open source as always.
 
-AND ALSO I DONNOT CARE IF YOU `SKID` THIS LMFAO
-
-
+# Reminder
+I did use grok ai for debugging
